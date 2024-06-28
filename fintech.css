@@ -1,0 +1,92 @@
+.body {
+    font-family: 'Poppins';font-size: 22px;
+    background-color: #878787;
+}
+
+hr {
+    margin: .25rem 1rem !important;
+}
+
+.subtext {
+    font-size: 0.8rem !important;
+}
+
+.fs-7 {
+    color: #E80B26;
+    font-size: 0.7rem;
+}
+
+.fs-7g {
+    color: #34A853;
+    font-size: 0.7rem;
+}
+
+.fs-8 {
+    font-size: 0.6rem;
+}
+
+
+
+.more-banks {
+    
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.bank-1 {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+}
+
+.add-bank {
+    height: 3rem;
+    width: 3rem;
+    margin-left: .5rem;
+    border-radius: 50%;
+    border: 2px solid #517DBF;
+    background-color: #FFFFFF;
+
+}
+
+.main-body {
+    background-color: #FFFFFF;
+    display: flex;
+    margin: 0 2rem
+}
+
+.main-title {
+    color: #878787;
+}
+
+.balance {
+    color: #517DBF;
+    margin-bottom: 0;
+}
+
+.balance-value {
+    color: #34A853;
+}
+
+.income {
+    font-size: 1pc;
+}
+
+.more {
+    color: #009CDE !important;
+}
+
+.info-item-icon {
+    background-color: #009CDE;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+}
+
+.bank-name {
+    font-size: 0.45rem;
+}
